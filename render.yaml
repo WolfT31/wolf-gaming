@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: your-website-name  # Change this to your site's name (e.g., "my-portfolio")
+    name: wolf-gaming  # Change this to your site's name (e.g., "my-portfolio")
     env: php
     buildCommand: ""         # Leave empty for pure PHP projects
     startCommand: "php -S 0.0.0.0:\${PORT}"
